@@ -1,0 +1,10 @@
+{
+  "key": "gb",
+  "name": "Gradient Boosting",
+  "r2": 0.9275,
+  "rmse": 116098.0,
+  "mae": 66091.0,
+  "cv_mean": 0.9283,
+  "cv_std": 0.0191,
+  "time_s": 4.06
+}

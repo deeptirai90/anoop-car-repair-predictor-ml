@@ -1,0 +1,201 @@
+incident_id,speed_kmh,vehicle_age_years,vehicle_value_inr,occupants,airbag_deployed,collision_type,road_condition,weather,vehicle_type,insurance_type,seatbelt_worn,previous_accidents,driver_age,tyre_condition,collision_enc,road_enc,weather_enc,vehicle_type_enc,tyre_enc,damage_severity,parts_damaged,repair_cost_inr
+2,97,5,323429,4,1,Head-on,Wet,Clear,Two-wheeler,Comprehensive,0,3,24,Good,1.8,1.3,1.0,0.6,1.0,Critical,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine",385400
+5,76,11,2109377,5,1,Rear-end,Dry,Clear,Sedan,Comprehensive,0,3,55,Bald,1.0,1.0,1.0,1.0,1.35,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame",508700
+14,135,1,1513261,5,1,Side,Dry,Fog,Hatchback,Comprehensive,0,4,38,Worn,1.3,1.0,1.15,0.85,1.15,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",769900
+15,57,10,852467,3,1,Rear-end,Dry,Clear,Sedan,Third-party,0,0,55,Bald,1.0,1.0,1.0,1.0,1.35,Moderate,"Bumper, Door Panel, Headlights/Taillights, Radiator",287200
+21,62,20,1235772,2,1,Head-on,Wet,Rain,Sedan,Comprehensive,0,0,21,Good,1.8,1.3,1.25,1.0,1.0,Severe,"Bumper, Hood, Headlights/Taillights, Radiator",819500
+22,26,10,771082,4,0,Head-on,Wet,Clear,Sedan,Comprehensive,1,1,61,Good,1.8,1.3,1.0,1.0,1.0,Minor,"Bumper, Hood",241800
+28,112,7,2647649,4,1,Head-on,Icy,Fog,Two-wheeler,Third-party,0,2,32,Good,1.8,1.8,1.15,0.6,1.0,Total Loss,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",1157900
+33,139,0,2361774,1,1,Head-on,Dry,Clear,SUV,Third-party,0,2,26,Good,1.8,1.0,1.0,1.3,1.0,Total Loss,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",1420000
+35,77,14,2065524,3,1,Rear-end,Dry,Clear,Truck,Comprehensive,1,1,47,Worn,1.0,1.0,1.0,1.5,1.15,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame",631500
+36,22,19,1550632,1,0,Head-on,Wet,Clear,Two-wheeler,None,1,2,30,Bald,1.8,1.3,1.0,0.6,1.35,Minor,Bumper,361900
+41,13,16,1209711,5,0,Side,Wet,Snow,SUV,Third-party,1,0,32,Bald,1.3,1.3,1.4,1.3,1.35,Minor,Bumper,589100
+48,12,8,2832147,3,0,Rear-end,Dry,Clear,Two-wheeler,Comprehensive,1,0,57,Good,1.0,1.0,1.0,0.6,1.0,Minor,Bumper,147200
+53,136,10,2454174,1,1,Rear-end,Wet,Clear,Hatchback,Comprehensive,1,3,40,Good,1.0,1.3,1.0,0.85,1.0,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",698600
+59,58,17,1114037,5,1,Rear-end,Wet,Fog,Sedan,Third-party,1,4,29,Good,1.0,1.3,1.15,1.0,1.0,Moderate,"Bumper, Door Panel, Headlights/Taillights, Radiator",410600
+63,52,18,1846236,5,1,Pole,Gravel,Clear,Sedan,None,0,3,20,Worn,1.5,1.2,1.0,1.0,1.15,Moderate,"Bumper, Hood, Headlights/Taillights",667200
+65,44,1,2590870,3,1,Rear-end,Wet,Clear,Two-wheeler,Comprehensive,1,2,68,Good,1.0,1.3,1.0,0.6,1.0,Moderate,"Bumper, Door Panel, Headlights/Taillights",228500
+72,19,9,2551401,3,0,Rollover,Wet,Clear,SUV,Comprehensive,0,2,21,Good,2.2,1.3,1.0,1.3,1.0,Minor,Bumper,957800
+81,67,4,1985996,4,1,Rear-end,Dry,Clear,Sedan,Comprehensive,0,4,32,Bald,1.0,1.0,1.0,1.0,1.35,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator",420900
+86,9,11,2659459,5,0,Head-on,Dry,Clear,Two-wheeler,Comprehensive,1,3,45,Bald,1.8,1.0,1.0,0.6,1.35,Minor,Minor scratches,394300
+88,32,8,1851330,4,0,Side,Wet,Fog,Two-wheeler,Third-party,1,0,67,Good,1.3,1.3,1.15,0.6,1.0,Moderate,"Bumper, Door Panel",199400
+92,37,15,1484446,3,0,Rear-end,Wet,Rain,Sedan,Comprehensive,1,0,27,Worn,1.0,1.3,1.25,1.0,1.15,Moderate,"Bumper, Door Panel",375600
+96,103,6,2131094,4,1,Head-on,Dry,Clear,Hatchback,Third-party,0,1,22,Good,1.8,1.0,1.0,0.85,1.0,Critical,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine",675100
+99,105,20,2263571,3,1,Rear-end,Wet,Snow,SUV,Comprehensive,1,3,30,Good,1.0,1.3,1.4,1.3,1.0,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",1168800
+100,135,6,1648207,4,1,Rear-end,Dry,Clear,Hatchback,None,1,4,41,Good,1.0,1.0,1.0,0.85,1.0,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",459500
+103,107,15,2156231,2,1,Rollover,Dry,Rain,Two-wheeler,Third-party,1,1,33,Good,2.2,1.0,1.25,0.6,1.0,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",800900
+106,94,17,2285957,3,1,Head-on,Dry,Snow,Sedan,Third-party,1,2,54,Worn,1.8,1.0,1.4,1.0,1.15,Critical,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine",1309800
+107,46,19,1019401,3,1,Rear-end,Dry,Fog,Hatchback,Comprehensive,1,3,53,Good,1.0,1.0,1.15,0.85,1.0,Moderate,"Bumper, Door Panel, Headlights/Taillights",222500
+122,66,7,2619124,5,1,Rear-end,Dry,Rain,SUV,Third-party,1,0,23,Good,1.0,1.0,1.25,1.3,1.0,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator",572300
+129,34,17,1355675,5,0,Head-on,Dry,Clear,Hatchback,Comprehensive,1,4,23,Worn,1.8,1.0,1.0,0.85,1.15,Moderate,"Bumper, Hood",356000
+131,132,15,2977932,5,1,Side,Dry,Rain,Hatchback,Third-party,0,3,37,Good,1.3,1.0,1.25,0.85,1.0,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",911000
+135,31,1,2620484,1,0,Rear-end,Wet,Clear,Sedan,Third-party,0,0,48,Worn,1.0,1.3,1.0,1.0,1.15,Moderate,"Bumper, Door Panel",365300
+139,107,12,1973879,4,1,Rollover,Wet,Clear,Hatchback,None,1,3,40,Good,2.2,1.3,1.0,0.85,1.0,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",1096800
+157,6,16,2313321,1,0,Pole,Icy,Clear,Sedan,Comprehensive,1,2,38,Worn,1.5,1.8,1.0,1.0,1.15,Minor,Minor scratches,761500
+160,91,13,903103,2,1,Side,Dry,Clear,SUV,Comprehensive,1,2,60,Worn,1.3,1.0,1.0,1.3,1.15,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",579100
+161,133,17,339279,5,1,Head-on,Dry,Clear,SUV,None,1,4,61,Good,1.8,1.0,1.0,1.3,1.0,Total Loss,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",1064400
+162,130,3,671931,2,1,Head-on,Dry,Clear,SUV,Third-party,1,2,64,Good,1.8,1.0,1.0,1.3,1.0,Total Loss,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",935100
+167,42,20,2039080,5,1,Side,Dry,Rain,Sedan,Comprehensive,1,3,32,Worn,1.3,1.0,1.25,1.0,1.15,Moderate,"Bumper, Door Panel, Headlights/Taillights",576100
+171,102,14,1557008,4,1,Pole,Wet,Clear,Sedan,Third-party,1,1,46,Worn,1.5,1.3,1.0,1.0,1.15,Critical,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine",897700
+188,11,19,1013226,4,0,Rear-end,Icy,Fog,Sedan,Third-party,1,1,31,Worn,1.0,1.8,1.15,1.0,1.15,Minor,Bumper,336400
+190,116,18,2260208,5,1,Pole,Dry,Rain,Hatchback,Third-party,1,2,38,Bald,1.5,1.0,1.25,0.85,1.35,Total Loss,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",1160000
+192,117,13,326806,2,1,Rear-end,Wet,Rain,Hatchback,Comprehensive,1,0,65,Bald,1.0,1.3,1.25,0.85,1.35,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",668900
+201,58,4,2804659,5,1,Rear-end,Dry,Clear,SUV,Third-party,1,4,59,Good,1.0,1.0,1.0,1.3,1.0,Moderate,"Bumper, Door Panel, Headlights/Taillights, Radiator",468900
+202,124,14,2050740,3,1,Rear-end,Wet,Clear,Hatchback,Third-party,1,1,69,Worn,1.0,1.3,1.0,0.85,1.15,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",655500
+206,108,19,384080,4,1,Rollover,Dry,Rain,Two-wheeler,Comprehensive,0,2,26,Good,2.2,1.0,1.25,0.6,1.0,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",610900
+207,88,16,1601367,3,1,Side,Icy,Clear,Two-wheeler,Third-party,1,2,64,Bald,1.3,1.8,1.0,0.6,1.35,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame",650600
+215,72,5,606094,3,1,Pole,Dry,Fog,Truck,Comprehensive,1,2,43,Good,1.5,1.0,1.15,1.5,1.0,Severe,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame",552200
+217,25,14,1711220,5,0,Side,Wet,Clear,Truck,Third-party,1,1,41,Good,1.3,1.3,1.0,1.5,1.0,Minor,Bumper,513400
+218,52,8,983404,2,1,Side,Dry,Snow,Hatchback,None,0,3,25,Good,1.3,1.0,1.4,0.85,1.0,Moderate,"Bumper, Door Panel, Headlights/Taillights",360100
+231,31,8,2052844,2,0,Head-on,Icy,Clear,Hatchback,Comprehensive,1,3,45,Worn,1.8,1.8,1.0,0.85,1.15,Moderate,"Bumper, Hood",676600
+241,39,15,1930668,5,0,Side,Dry,Rain,Hatchback,Third-party,1,1,35,Worn,1.3,1.0,1.25,0.85,1.15,Moderate,"Bumper, Door Panel",371100
+242,53,17,1719541,5,1,Rear-end,Wet,Clear,Sedan,None,1,3,37,Worn,1.0,1.3,1.0,1.0,1.15,Moderate,"Bumper, Door Panel, Headlights/Taillights",427500
+243,21,5,1352330,5,0,Head-on,Dry,Clear,Sedan,Third-party,0,2,45,Worn,1.8,1.0,1.0,1.0,1.15,Minor,Bumper,298500
+244,50,4,1899908,2,1,Rear-end,Dry,Clear,Sedan,Comprehensive,1,4,30,Good,1.0,1.0,1.0,1.0,1.0,Moderate,"Bumper, Door Panel, Headlights/Taillights",265200
+252,50,12,2055548,5,1,Rear-end,Dry,Fog,Sedan,None,0,4,48,Good,1.0,1.0,1.15,1.0,1.0,Moderate,"Bumper, Door Panel, Headlights/Taillights",350600
+253,99,18,329725,4,1,Rear-end,Dry,Clear,Hatchback,Third-party,1,0,23,Worn,1.0,1.0,1.0,0.85,1.15,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",300200
+270,21,12,2853314,2,0,Head-on,Dry,Rain,Hatchback,Comprehensive,1,2,65,Worn,1.8,1.0,1.25,0.85,1.15,Minor,Bumper,597100
+271,108,20,846015,1,1,Side,Wet,Clear,Hatchback,Third-party,0,2,38,Good,1.3,1.3,1.0,0.85,1.0,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",598900
+274,30,5,1940920,3,0,Rollover,Dry,Fog,Hatchback,Comprehensive,1,2,48,Worn,2.2,1.0,1.15,0.85,1.15,Moderate,"Bumper, Door Panel",491800
+277,17,10,2553722,1,0,Rear-end,Icy,Clear,Truck,Comprehensive,1,4,67,Good,1.0,1.8,1.0,1.5,1.0,Minor,Bumper,679000
+289,36,12,1543085,4,1,Side,Dry,Rain,Sedan,Third-party,1,1,64,Good,1.3,1.0,1.25,1.0,1.0,Moderate,"Bumper, Door Panel",367100
+296,90,8,2844709,2,1,Rear-end,Wet,Rain,Sedan,Third-party,1,2,46,Worn,1.0,1.3,1.25,1.0,1.15,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame",836000
+309,113,14,1612743,5,1,Side,Dry,Fog,Truck,Third-party,0,0,22,Good,1.3,1.0,1.15,1.5,1.0,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",1034800
+314,59,17,1232883,1,1,Head-on,Wet,Clear,SUV,Comprehensive,1,4,44,Worn,1.8,1.3,1.0,1.3,1.15,Moderate,"Bumper, Hood, Headlights/Taillights, Radiator",955700
+316,17,16,1326630,1,0,Head-on,Dry,Clear,Truck,Comprehensive,1,0,55,Worn,1.8,1.0,1.0,1.5,1.15,Minor,Bumper,474200
+331,62,10,1390668,2,1,Rear-end,Dry,Fog,Hatchback,Comprehensive,1,2,24,Good,1.0,1.0,1.15,0.85,1.0,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator",263100
+338,52,1,2128022,3,1,Pole,Gravel,Clear,Hatchback,Comprehensive,0,1,22,Bald,1.5,1.2,1.0,0.85,1.35,Moderate,"Bumper, Hood, Headlights/Taillights",582200
+340,121,1,1709854,1,1,Side,Dry,Clear,Two-wheeler,Comprehensive,1,4,68,Good,1.3,1.0,1.0,0.6,1.0,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",351200
+344,26,12,1638106,4,0,Head-on,Gravel,Clear,Truck,Comprehensive,1,0,61,Worn,1.8,1.2,1.0,1.5,1.15,Minor,"Bumper, Hood",649000
+346,80,6,1233688,1,1,Side,Icy,Clear,SUV,Comprehensive,1,1,32,Good,1.3,1.8,1.0,1.3,1.0,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame",896600
+367,28,0,2919372,2,0,Rear-end,Dry,Clear,Two-wheeler,Comprehensive,1,3,52,Good,1.0,1.0,1.0,0.6,1.0,Minor,"Bumper, Door Panel",159400
+373,37,11,2480521,1,0,Head-on,Wet,Rain,Sedan,Third-party,1,1,63,Bald,1.8,1.3,1.25,1.0,1.35,Moderate,"Bumper, Hood",1002800
+379,47,13,1069097,5,1,Head-on,Wet,Clear,SUV,Comprehensive,0,0,43,Worn,1.8,1.3,1.0,1.3,1.15,Moderate,"Bumper, Hood, Headlights/Taillights",739100
+380,48,16,2649316,2,1,Rear-end,Wet,Fog,Sedan,Comprehensive,0,3,56,Worn,1.0,1.3,1.15,1.0,1.15,Moderate,"Bumper, Door Panel, Headlights/Taillights",631000
+386,39,19,1877969,3,1,Side,Dry,Rain,Sedan,None,0,1,39,Good,1.3,1.0,1.25,1.0,1.0,Moderate,"Bumper, Door Panel",460300
+388,94,2,1705568,4,1,Pole,Wet,Clear,SUV,Third-party,0,4,39,Worn,1.5,1.3,1.0,1.3,1.15,Critical,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine",1065100
+390,97,20,1130051,3,1,Rear-end,Dry,Clear,Two-wheeler,Comprehensive,1,3,38,Worn,1.0,1.0,1.0,0.6,1.15,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",256500
+392,119,19,2404683,1,1,Rollover,Wet,Rain,SUV,Comprehensive,1,3,57,Good,2.2,1.3,1.25,1.3,1.0,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",2571900
+393,109,13,2827419,1,1,Pole,Dry,Clear,Sedan,Third-party,1,0,70,Worn,1.5,1.0,1.0,1.0,1.15,Critical,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine",890300
+398,124,11,2871165,4,1,Side,Icy,Fog,Hatchback,Comprehensive,1,3,58,Good,1.3,1.8,1.15,0.85,1.0,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",1355300
+402,40,5,1714022,3,0,Head-on,Wet,Clear,SUV,Comprehensive,1,3,58,Good,1.8,1.3,1.0,1.3,1.0,Moderate,"Bumper, Hood",575500
+407,17,7,1267561,4,0,Side,Wet,Clear,Hatchback,Comprehensive,0,3,49,Good,1.3,1.3,1.0,0.85,1.0,Minor,Bumper,227600
+414,66,17,1774764,2,1,Pole,Wet,Clear,Hatchback,None,1,4,37,Good,1.5,1.3,1.0,0.85,1.0,Severe,"Bumper, Hood, Headlights/Taillights, Radiator",570500
+419,104,12,2062999,3,1,Pole,Dry,Clear,Hatchback,Comprehensive,1,1,45,Worn,1.5,1.0,1.0,0.85,1.15,Critical,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine",657900
+428,73,11,1903546,5,1,Rollover,Wet,Clear,Sedan,Comprehensive,1,1,57,Good,2.2,1.3,1.0,1.0,1.0,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame",919000
+436,46,17,551351,2,1,Pole,Dry,Clear,Sedan,Third-party,1,4,69,Worn,1.5,1.0,1.0,1.0,1.15,Moderate,"Bumper, Hood, Headlights/Taillights",308800
+455,136,11,2010524,1,1,Rear-end,Icy,Rain,Sedan,None,0,4,31,Worn,1.0,1.8,1.25,1.0,1.15,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",1573500
+456,40,16,2665600,5,0,Rollover,Dry,Clear,Sedan,Third-party,0,4,63,Bald,2.2,1.0,1.0,1.0,1.35,Moderate,"Bumper, Door Panel",930200
+459,112,2,429350,5,1,Side,Wet,Clear,Sedan,Third-party,1,3,18,Worn,1.3,1.3,1.0,1.0,1.15,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",633600
+460,95,5,988725,5,1,Head-on,Dry,Clear,Sedan,Comprehensive,1,0,65,Good,1.8,1.0,1.0,1.0,1.0,Critical,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine",516700
+461,94,8,1088768,2,1,Rear-end,Wet,Clear,SUV,Third-party,1,0,46,Worn,1.0,1.3,1.0,1.3,1.15,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",583600
+462,23,5,506487,4,0,Head-on,Wet,Clear,Sedan,Third-party,1,2,21,Worn,1.8,1.3,1.0,1.0,1.15,Minor,Bumper,235900
+467,65,11,345232,1,1,Rollover,Icy,Clear,Sedan,Comprehensive,1,1,43,Good,2.2,1.8,1.0,1.0,1.0,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator",701000
+472,96,14,1326657,4,1,Rear-end,Dry,Rain,Sedan,Third-party,0,3,44,Worn,1.0,1.0,1.25,1.0,1.15,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",525800
+475,121,19,1956321,3,1,Side,Wet,Rain,Sedan,Third-party,1,3,57,Good,1.3,1.3,1.25,1.0,1.0,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",1103900
+476,138,15,838645,3,1,Rear-end,Icy,Clear,SUV,Third-party,1,2,29,Worn,1.0,1.8,1.0,1.3,1.15,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",1374900
+477,62,3,1871951,1,1,Rear-end,Wet,Clear,Hatchback,Comprehensive,1,0,39,Worn,1.0,1.3,1.0,0.85,1.15,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator",339900
+485,53,11,2655787,4,1,Rear-end,Dry,Rain,SUV,Comprehensive,1,0,20,Worn,1.0,1.0,1.25,1.3,1.15,Moderate,"Bumper, Door Panel, Headlights/Taillights",665100
+490,122,18,1153695,1,1,Head-on,Wet,Rain,Hatchback,Comprehensive,1,3,54,Worn,1.8,1.3,1.25,0.85,1.15,Total Loss,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",1305700
+492,16,3,924446,1,1,Pole,Dry,Rain,Truck,Comprehensive,1,1,59,Worn,1.5,1.0,1.25,1.5,1.15,Minor,Bumper,399800
+493,78,12,1097232,2,1,Head-on,Dry,Fog,Two-wheeler,Third-party,0,4,66,Good,1.8,1.0,1.15,0.6,1.0,Severe,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame",366800
+499,96,5,1878638,3,1,Rear-end,Dry,Rain,Sedan,Third-party,0,4,40,Good,1.0,1.0,1.25,1.0,1.0,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",504700
+503,32,8,2281019,5,0,Rollover,Icy,Clear,SUV,Third-party,1,0,56,Good,2.2,1.8,1.0,1.3,1.0,Moderate,"Bumper, Door Panel",1073000
+505,45,9,2511738,1,1,Side,Dry,Clear,Hatchback,Comprehensive,1,0,25,Good,1.3,1.0,1.0,0.85,1.0,Moderate,"Bumper, Door Panel, Headlights/Taillights",360600
+509,86,0,2939929,1,1,Rollover,Wet,Clear,Sedan,Third-party,0,0,21,Good,2.2,1.3,1.0,1.0,1.0,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame",1239300
+511,51,11,1861456,4,1,Side,Dry,Rain,SUV,Third-party,1,2,60,Good,1.3,1.0,1.25,1.3,1.0,Moderate,"Bumper, Door Panel, Headlights/Taillights",573200
+521,15,18,2554614,5,0,Pole,Dry,Fog,Truck,Comprehensive,1,0,18,Worn,1.5,1.0,1.15,1.5,1.15,Minor,Bumper,824200
+525,90,1,1574634,5,1,Head-on,Dry,Clear,Hatchback,Comprehensive,1,1,25,Worn,1.8,1.0,1.0,0.85,1.15,Critical,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame",600700
+541,89,20,1556715,5,1,Rear-end,Wet,Clear,Two-wheeler,Comprehensive,1,1,29,Bald,1.0,1.3,1.0,0.6,1.35,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame",393700
+547,117,15,1224133,2,1,Pole,Dry,Clear,Hatchback,Comprehensive,1,1,34,Worn,1.5,1.0,1.0,0.85,1.15,Total Loss,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",640800
+554,122,4,579215,1,1,Rollover,Dry,Rain,SUV,Third-party,1,1,41,Worn,2.2,1.0,1.25,1.3,1.15,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",1548600
+556,127,12,2259669,4,1,Head-on,Dry,Snow,Sedan,Comprehensive,1,1,42,Worn,1.8,1.0,1.4,1.0,1.15,Total Loss,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",1636000
+557,54,8,2140914,5,1,Rear-end,Dry,Fog,SUV,Comprehensive,1,0,53,Good,1.0,1.0,1.15,1.3,1.0,Moderate,"Bumper, Door Panel, Headlights/Taillights",418800
+561,61,19,1691405,1,1,Rear-end,Dry,Clear,Hatchback,Comprehensive,1,1,36,Good,1.0,1.0,1.0,0.85,1.0,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator",264500
+562,116,1,1721174,5,1,Head-on,Dry,Rain,SUV,Comprehensive,1,0,70,Good,1.8,1.0,1.25,1.3,1.0,Total Loss,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",1224700
+563,51,6,1716207,1,1,Head-on,Dry,Fog,SUV,Third-party,1,1,29,Good,1.8,1.0,1.15,1.3,1.0,Moderate,"Bumper, Hood, Headlights/Taillights",701300
+564,89,5,878688,4,1,Rollover,Dry,Clear,SUV,Comprehensive,0,4,27,Good,2.2,1.0,1.0,1.3,1.0,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame",861100
+565,70,16,331852,5,1,Rear-end,Wet,Clear,SUV,Comprehensive,0,3,48,Good,1.0,1.3,1.0,1.3,1.0,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator",387400
+566,79,1,1861588,1,1,Head-on,Wet,Clear,Hatchback,Third-party,1,1,62,Good,1.8,1.3,1.0,0.85,1.0,Severe,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame",604100
+567,107,2,2774653,2,1,Rollover,Wet,Snow,Hatchback,Comprehensive,1,1,39,Good,2.2,1.3,1.4,0.85,1.0,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",1620400
+574,95,12,1404002,4,1,Rear-end,Dry,Clear,Truck,Comprehensive,0,0,40,Good,1.0,1.0,1.0,1.5,1.0,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",564000
+575,56,14,539968,4,1,Side,Wet,Clear,Two-wheeler,Comprehensive,0,3,37,Good,1.3,1.3,1.0,0.6,1.0,Moderate,"Bumper, Door Panel, Headlights/Taillights, Radiator",222700
+578,110,2,2918273,1,1,Rear-end,Wet,Snow,SUV,Third-party,1,1,56,Worn,1.0,1.3,1.4,1.3,1.15,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",1374800
+593,119,10,608449,3,1,Side,Wet,Clear,Hatchback,Comprehensive,1,3,27,Worn,1.3,1.3,1.0,0.85,1.15,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",673800
+601,136,11,1706368,2,1,Rear-end,Dry,Clear,Sedan,Comprehensive,1,4,34,Good,1.0,1.0,1.0,1.0,1.0,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",563400
+613,74,0,2808426,3,1,Side,Wet,Clear,SUV,Third-party,0,2,38,Good,1.3,1.3,1.0,1.3,1.0,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame",866800
+615,137,5,594746,1,1,Pole,Icy,Rain,Sedan,Third-party,1,4,50,Bald,1.5,1.8,1.25,1.0,1.35,Total Loss,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",2153300
+643,32,7,1765744,4,0,Head-on,Dry,Rain,Hatchback,Comprehensive,1,2,22,Good,1.8,1.0,1.25,0.85,1.0,Moderate,"Bumper, Hood",371100
+647,18,7,2060462,3,0,Rear-end,Dry,Fog,SUV,None,1,0,34,Bald,1.0,1.0,1.15,1.3,1.35,Minor,Bumper,403200
+648,60,5,2538673,4,1,Head-on,Dry,Clear,SUV,Comprehensive,0,1,41,Bald,1.8,1.0,1.0,1.3,1.35,Severe,"Bumper, Hood, Headlights/Taillights, Radiator",1114200
+655,42,9,2006533,3,1,Side,Dry,Clear,Sedan,Third-party,0,4,32,Worn,1.3,1.0,1.0,1.0,1.15,Moderate,"Bumper, Door Panel, Headlights/Taillights",443000
+662,90,16,2681306,5,1,Rollover,Gravel,Snow,SUV,Third-party,0,1,56,Bald,2.2,1.2,1.4,1.3,1.35,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame",3017400
+664,48,7,439544,5,1,Rear-end,Dry,Clear,Hatchback,Third-party,1,1,54,Bald,1.0,1.0,1.0,0.85,1.35,Moderate,"Bumper, Door Panel, Headlights/Taillights",158000
+675,12,8,2850043,4,1,Rear-end,Dry,Rain,Hatchback,Comprehensive,1,3,48,Good,1.0,1.0,1.25,0.85,1.0,Minor,Bumper,335600
+682,68,15,1624667,2,1,Side,Dry,Clear,Two-wheeler,Comprehensive,0,0,26,Bald,1.3,1.0,1.0,0.6,1.35,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator",323100
+684,113,8,2229848,3,1,Head-on,Wet,Clear,SUV,Comprehensive,1,2,48,Worn,1.8,1.3,1.0,1.3,1.15,Total Loss,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",1693200
+687,25,8,2977747,4,0,Rear-end,Icy,Clear,Two-wheeler,Third-party,1,2,40,Good,1.0,1.8,1.0,0.6,1.0,Minor,Bumper,312700
+691,98,5,2964912,5,1,Side,Gravel,Clear,Hatchback,Comprehensive,1,1,23,Good,1.3,1.2,1.0,0.85,1.0,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",647300
+699,44,12,791450,1,1,Side,Dry,Rain,Sedan,Comprehensive,1,0,30,Good,1.3,1.0,1.25,1.0,1.0,Moderate,"Bumper, Door Panel, Headlights/Taillights",319700
+700,40,8,425149,4,0,Rear-end,Gravel,Clear,Sedan,Comprehensive,0,1,59,Worn,1.0,1.2,1.0,1.0,1.15,Moderate,"Bumper, Door Panel",134200
+701,10,18,1053704,5,1,Head-on,Wet,Fog,Sedan,Comprehensive,1,0,69,Good,1.8,1.3,1.15,1.0,1.0,Minor,Minor scratches,457800
+702,70,12,1551011,3,1,Head-on,Wet,Clear,Hatchback,Third-party,1,3,62,Worn,1.8,1.3,1.0,0.85,1.15,Severe,"Bumper, Hood, Headlights/Taillights, Radiator",688900
+703,79,10,463834,1,1,Rear-end,Dry,Clear,Hatchback,Third-party,0,0,34,Good,1.0,1.0,1.0,0.85,1.0,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame",191800
+720,24,10,1276433,1,0,Rear-end,Dry,Clear,Sedan,Third-party,1,0,69,Worn,1.0,1.0,1.0,1.0,1.15,Minor,Bumper,136100
+725,68,9,1669363,1,1,Side,Dry,Clear,SUV,Third-party,1,1,37,Good,1.3,1.0,1.0,1.3,1.0,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator",493900
+726,42,1,2442052,2,1,Rear-end,Wet,Clear,SUV,Third-party,1,1,46,Good,1.0,1.3,1.0,1.3,1.0,Moderate,"Bumper, Door Panel, Headlights/Taillights",485200
+727,41,13,1784738,2,1,Rear-end,Dry,Clear,Sedan,Third-party,1,1,70,Good,1.0,1.0,1.0,1.0,1.0,Moderate,"Bumper, Door Panel, Headlights/Taillights",250200
+728,130,8,701067,5,1,Head-on,Gravel,Clear,Sedan,Comprehensive,1,4,46,Good,1.8,1.2,1.0,1.0,1.0,Total Loss,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",954200
+730,81,20,760796,1,1,Rear-end,Dry,Clear,Hatchback,Third-party,1,4,67,Worn,1.0,1.0,1.0,0.85,1.15,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame",283000
+734,9,5,1964034,4,0,Side,Dry,Clear,SUV,Comprehensive,1,2,27,Good,1.3,1.0,1.0,1.3,1.0,Minor,Minor scratches,315900
+739,69,15,791862,4,1,Rollover,Dry,Fog,Sedan,Comprehensive,1,1,50,Worn,2.2,1.0,1.15,1.0,1.15,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator",670600
+743,21,3,410155,2,0,Rear-end,Icy,Clear,SUV,Third-party,0,0,38,Good,1.0,1.8,1.0,1.3,1.0,Minor,Bumper,157300
+748,53,13,2224914,2,1,Side,Dry,Fog,Hatchback,Third-party,1,2,32,Good,1.3,1.0,1.15,0.85,1.0,Moderate,"Bumper, Door Panel, Headlights/Taillights",428400
+749,73,17,2384508,2,1,Rear-end,Icy,Clear,Hatchback,Comprehensive,1,1,53,Good,1.0,1.8,1.0,0.85,1.0,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame",598900
+764,109,20,2384504,3,1,Rear-end,Wet,Clear,SUV,Comprehensive,1,2,69,Bald,1.0,1.3,1.0,1.3,1.35,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",1151300
+767,34,1,959738,1,0,Rollover,Wet,Clear,Sedan,Third-party,1,2,56,Good,2.2,1.3,1.0,1.0,1.0,Moderate,"Bumper, Door Panel",323900
+769,9,3,2771378,1,0,Pole,Dry,Clear,Sedan,Third-party,1,4,53,Good,1.5,1.0,1.0,1.0,1.0,Minor,Minor scratches,386700
+770,87,15,2220379,3,1,Side,Dry,Rain,Sedan,Third-party,1,2,46,Good,1.3,1.0,1.25,1.0,1.0,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame",651900
+772,82,19,1555516,3,1,Rear-end,Gravel,Fog,SUV,Comprehensive,1,3,66,Worn,1.0,1.2,1.15,1.3,1.15,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame",717200
+773,66,13,1653324,4,1,Side,Gravel,Rain,SUV,Comprehensive,1,2,53,Good,1.3,1.2,1.25,1.3,1.0,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator",742800
+776,46,7,373869,4,1,Rear-end,Dry,Rain,Sedan,Third-party,1,2,33,Good,1.0,1.0,1.25,1.0,1.0,Moderate,"Bumper, Door Panel, Headlights/Taillights",186500
+777,93,15,2140418,1,1,Rollover,Dry,Rain,Hatchback,Comprehensive,1,3,65,Good,2.2,1.0,1.25,0.85,1.0,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",990100
+780,43,17,502416,1,1,Rollover,Gravel,Fog,Hatchback,Comprehensive,1,4,67,Bald,2.2,1.2,1.15,0.85,1.35,Moderate,"Bumper, Door Panel, Headlights/Taillights",610300
+783,36,12,1669277,3,0,Head-on,Dry,Clear,Truck,Comprehensive,0,4,57,Good,1.8,1.0,1.0,1.5,1.0,Moderate,"Bumper, Hood",564300
+792,138,16,785757,1,1,Rear-end,Dry,Clear,Truck,Comprehensive,1,2,23,Good,1.0,1.0,1.0,1.5,1.0,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",755800
+795,46,3,1485111,4,1,Head-on,Icy,Rain,Truck,Comprehensive,1,0,51,Good,1.8,1.8,1.25,1.5,1.0,Moderate,"Bumper, Hood, Headlights/Taillights",1245100
+796,19,19,1067524,1,0,Rear-end,Wet,Rain,Sedan,Comprehensive,1,1,49,Worn,1.0,1.3,1.25,1.0,1.15,Minor,Bumper,254100
+805,9,20,1942892,2,0,Rollover,Dry,Fog,SUV,Comprehensive,1,4,41,Worn,2.2,1.0,1.15,1.3,1.15,Minor,Minor scratches,848400
+806,127,8,2943647,1,1,Side,Icy,Clear,Sedan,None,1,4,43,Worn,1.3,1.8,1.0,1.0,1.15,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",1682700
+813,19,16,1881074,3,0,Side,Gravel,Rain,Two-wheeler,Third-party,1,2,18,Good,1.3,1.2,1.25,0.6,1.0,Minor,Bumper,255200
+816,51,17,491420,4,1,Rear-end,Wet,Clear,Sedan,Comprehensive,0,1,42,Worn,1.0,1.3,1.0,1.0,1.15,Moderate,"Bumper, Door Panel, Headlights/Taillights",293400
+819,134,6,2375915,3,1,Head-on,Wet,Clear,Sedan,Third-party,0,1,36,Good,1.8,1.3,1.0,1.0,1.0,Total Loss,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",1374700
+822,40,18,2773112,2,1,Rear-end,Dry,Snow,Sedan,Comprehensive,1,1,43,Worn,1.0,1.0,1.4,1.0,1.15,Moderate,"Bumper, Door Panel",574100
+832,27,1,513981,5,0,Rollover,Dry,Clear,Hatchback,Third-party,1,2,32,Good,2.2,1.0,1.0,0.85,1.0,Minor,"Bumper, Door Panel",126500
+839,108,2,1165363,3,1,Side,Dry,Snow,Sedan,Comprehensive,1,1,64,Worn,1.3,1.0,1.4,1.0,1.15,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",761400
+840,64,6,737625,2,1,Rear-end,Dry,Clear,SUV,Comprehensive,1,4,38,Worn,1.0,1.0,1.0,1.3,1.15,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator",318000
+841,104,10,1498734,3,1,Rear-end,Dry,Rain,Sedan,Comprehensive,1,3,58,Good,1.0,1.0,1.25,1.0,1.0,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",514300
+848,110,6,555948,2,1,Rear-end,Wet,Clear,Sedan,Comprehensive,1,2,46,Good,1.0,1.3,1.0,1.0,1.0,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",422400
+849,96,20,1870057,2,1,Side,Dry,Snow,Sedan,Third-party,1,1,59,Good,1.3,1.0,1.4,1.0,1.0,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",739100
+857,5,6,1761331,1,0,Rear-end,Dry,Clear,Sedan,Comprehensive,1,2,48,Bald,1.0,1.0,1.0,1.0,1.35,Minor,Minor scratches,233400
+858,50,13,1080741,3,1,Pole,Dry,Snow,Hatchback,Comprehensive,1,1,24,Worn,1.5,1.0,1.4,0.85,1.15,Moderate,"Bumper, Hood, Headlights/Taillights",445600
+861,114,5,461445,1,1,Rear-end,Dry,Clear,Hatchback,Third-party,1,3,56,Worn,1.0,1.0,1.0,0.85,1.15,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",334100
+863,5,6,2600199,5,0,Rear-end,Dry,Clear,SUV,Comprehensive,1,0,47,Good,1.0,1.0,1.0,1.3,1.0,Minor,Minor scratches,284000
+872,29,8,508944,2,1,Head-on,Dry,Rain,Two-wheeler,Third-party,1,4,43,Good,1.8,1.0,1.25,0.6,1.0,Minor,"Bumper, Hood",209700
+876,134,8,307461,5,1,Head-on,Wet,Clear,Sedan,Third-party,0,3,22,Good,1.8,1.3,1.0,1.0,1.0,Total Loss,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",1072000
+879,21,12,1346161,3,0,Rear-end,Wet,Rain,SUV,Comprehensive,1,4,64,Good,1.0,1.3,1.25,1.3,1.0,Minor,Bumper,331600
+881,112,1,794178,2,1,Side,Icy,Rain,SUV,Third-party,1,4,31,Good,1.3,1.8,1.25,1.3,1.0,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",1440200
+889,88,2,973218,2,1,Rollover,Wet,Rain,Truck,None,1,0,39,Good,2.2,1.3,1.25,1.5,1.0,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame",1487100
+891,122,2,1007755,2,1,Head-on,Gravel,Clear,SUV,Third-party,0,2,32,Good,1.8,1.2,1.0,1.3,1.0,Total Loss,"Bumper, Hood, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",1179300
+898,127,2,1019407,4,1,Rear-end,Gravel,Clear,SUV,Third-party,0,3,59,Worn,1.0,1.2,1.0,1.3,1.15,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",780200
+930,71,7,1878608,1,1,Side,Wet,Snow,Sedan,Comprehensive,1,2,52,Good,1.3,1.3,1.4,1.0,1.0,Severe,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame",736500
+938,39,1,1551775,1,0,Rear-end,Dry,Clear,Sedan,None,1,3,40,Good,1.0,1.0,1.0,1.0,1.0,Moderate,"Bumper, Door Panel",183800
+945,59,8,1008521,3,1,Head-on,Dry,Clear,Hatchback,Third-party,1,3,56,Good,1.8,1.0,1.0,0.85,1.0,Moderate,"Bumper, Hood, Headlights/Taillights, Radiator",334600
+956,133,2,2155546,5,1,Side,Dry,Clear,Two-wheeler,Third-party,1,4,33,Worn,1.3,1.0,1.0,0.6,1.15,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",496100
+958,15,14,1232477,5,0,Rollover,Wet,Clear,Truck,Comprehensive,1,3,25,Good,2.2,1.3,1.0,1.5,1.0,Minor,Bumper,699400
+963,41,14,2949156,4,1,Side,Gravel,Fog,Hatchback,Third-party,0,3,18,Worn,1.3,1.2,1.15,0.85,1.15,Moderate,"Bumper, Door Panel, Headlights/Taillights",669900
+977,44,13,2864395,2,1,Side,Dry,Rain,Hatchback,Comprehensive,1,1,64,Good,1.3,1.0,1.25,0.85,1.0,Moderate,"Bumper, Door Panel, Headlights/Taillights",471100
+981,8,2,1171808,4,0,Head-on,Dry,Rain,SUV,Third-party,1,1,53,Worn,1.8,1.0,1.25,1.3,1.15,Minor,Minor scratches,328400
+983,113,1,2554103,5,1,Side,Dry,Fog,Sedan,Comprehensive,1,0,67,Bald,1.3,1.0,1.15,1.0,1.35,Total Loss,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine, Total Loss",949600
+993,38,13,1842247,2,0,Rear-end,Wet,Rain,SUV,Comprehensive,1,1,70,Good,1.0,1.3,1.25,1.3,1.0,Moderate,"Bumper, Door Panel",410100
+997,91,13,2633433,1,1,Rear-end,Dry,Clear,Sedan,Comprehensive,1,0,34,Worn,1.0,1.0,1.0,1.0,1.15,Critical,"Bumper, Door Panel, Headlights/Taillights, Radiator, Airbags, Frame, Engine",519100
